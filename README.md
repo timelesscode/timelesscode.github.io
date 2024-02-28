@@ -14,5 +14,3 @@ Software Development: In addition to entertainment, we also provide software dev
 Contact Us
 
 Thank you for visiting Timeless Software! To learn more about our services or discuss potential collaborations, please contact us at contact@timelesssoftware.com.
-
-Feel free to customize and expand upon this template to better suit your website and company's branding. Additionally, you can include relevant links, images, or additional sections as needed.
