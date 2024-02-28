@@ -1,0 +1,10 @@
+/* styles.css */
+.custom-heading {
+    font-family: Arial, sans-serif; /* Change font family */
+    color: blue; /* Change text color */
+}
+
+.custom-paragraph {
+    font-family: 'Times New Roman', serif; /* Change font family */
+    color: green; /* Change text color */
+}
