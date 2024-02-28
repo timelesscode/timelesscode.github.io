@@ -1,5 +1,3 @@
-# timelesscode.github.io
-Timeless Software
 Timeless Software
 
 Welcome to Timeless Software, a startup development company dedicated to crafting high-quality visuals and entertainment experiences. Founded by Devin D., a skilled programmer, and Mike Bell, a talented artist, Timeless Software is committed to creating innovative and immersive digital experiences that captivate audiences worldwide. About Us
